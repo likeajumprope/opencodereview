@@ -1,0 +1,60 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Johanna Bayer'
+theme = "anatole"
+summarylength = 50
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+title = "I'm Johanna Bayer"
+author = "Johanna Bayer"
+description = "Noise is the grease that allows a theory to slide over unexepected findings"
+profilePicture = "images/Johanna.jpg"
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://de.linkedin.com/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/likeajumprope"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/likeajumprope"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:bayerj@student.unimelb.edu.au"
+
+[menu]
+ [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+[[menu.main]]
+  name = "Projects"
+  weight = 200
+  identifier = "projects"
+  url = "/projects/"
+
+[[menu.main]]
+name = "Curriculum Vitae"
+weight = 200
+identifier = "cv"
+url = "/cv/"
