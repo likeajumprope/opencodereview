@@ -58,3 +58,9 @@ name = "Curriculum Vitae"
 weight = 200
 identifier = "cv"
 url = "/cv/"
+
+[[menu.main]]
+name = "Publications"
+weight = 200
+identifier = "Publications"
+url = "/Publications/"
