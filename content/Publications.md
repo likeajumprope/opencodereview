@@ -1,0 +1,1 @@
+Bayer, J. M.M., Dinga, R., Kia, S. M., Kottaram, A. R., Wolfers, T., Lv, J., ... & Marquand, A. (2021). Accommodating site variation in neuroimaging data using hierarchical and Bayesian models. [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2021/02/10/2021.02.09.430363.full.pdf). Submitted to NeuroImage.
