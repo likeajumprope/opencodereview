@@ -56,11 +56,17 @@ url = "mailto:bayerj@student.unimelb.edu.au"
 [[menu.main]]
   name = "Curriculum Vitae"
   weight = 200
-    identifier = "CV"
-url = "/CV/"
+  identifier = "CV"
+  url = "/CV/"
 
 [[menu.main]]
   name = "Publications"
   weight = 200
   identifier = "Publications"
   url = "/Publications/"
+
+ [[menu.main]]
+  name = "portfolio"
+  weight = 200
+  identifier = "portfolio"
+  url = "/portfolio/"
