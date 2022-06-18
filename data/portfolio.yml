@@ -1,6 +1,6 @@
 portfolioitems:
   # portfolio category
-  - title: Coding Projects
+  - title: Coding Projects & Research
     portfolioitem:
       - name: PhD project 1 Site effects in multi-site neuroimaging studies
         image: '/images/MLpapers.jpeg'
@@ -21,36 +21,47 @@ portfolioitems:
         description: 'Both the treatment and the neuro-anatomy underlying depression are  little understood. This can be attributed to the heterogeneity of depression, 
         combined with the research approach of group average comparisons which cover many inter-individual differences. Normative modelling allows to map variation
         at an individual level as z-scores of deviations. I studied the neuroanatomical deviations of individuals with '
-        status: 'On Hold'
+        status: 'Ongoing'
+        start: '2020'
+        end: "2022"
         tags:
           - project
           - publication
       - name: PhD project 3 Comparing multi-site harmonisation methods
         image: '/images/Site_effect_image.jpeg'
-        link: https://gohugo.io/
+        link: https://psyarxiv.com/mpufv/
         status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        description: 'With raising awareness about the multi-site effect problem, several methods have been developed to 
+        correct for this issue. But which method should be used in which situation? What are the exact mathematical underpinnings
+        of each method? This is what we are trying to discuss in this paper.'
         tags:
-          - Tag 1
-          - Tag 2
+          - project
+          - publication
   # portfolio category
-  - title: Research
+  - title: Additional projects
     portfolioitem:
-      - name: Project 1
+      - name: Multi-trajectory modelling in ultra high risk for schizophrenia youths
         image: '/images/portfolio/code.jpg'
         link: https://gohugo.io/
         description: 'A description'
         tags:
           - Tag 1
           - Tag 2
-      - name: Project 2
+      - name: Neuroanatomical correlates of negative symptoms in schizophrenia
         image: '/images/portfolio/code.jpg'
         link: https://gohugo.io/
         description: 'A description'
         tags:
           - Tag 1
           - Tag 2
-      - name: Project 3
+      - name: Cognitive biases in ultra high risk youths
+        image: '/images/portfolio/code.jpg'
+        link: https://gohugo.io/
+        description: 'A description'
+        tags:
+          - Tag 1
+          - Tag 2
+      - name: CWorking alliance in therapy in ultra high risk youths
         image: '/images/portfolio/code.jpg'
         link: https://gohugo.io/
         description: 'A description'
