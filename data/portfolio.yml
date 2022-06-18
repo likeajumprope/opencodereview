@@ -2,25 +2,31 @@ portfolioitems:
   # portfolio category
   - title: Coding Projects
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+      - name: PhD project 1 Site effects in multi-site neuroimaging studies
+        image: '/images/MLpapers.jpeg'
+        link: https://www.biorxiv.org/content/biorxiv/early/2021/02/10/2021.02.09.430363.full.pdf'
+        description: 'Normative modelling is an emerging method in neuroimaging to model individualized differences beyond group average comparisons.
+        Normative modelling maps the variation of one dimension onto a second, normalizing for the variation in this dimension. In this project I develop 
+        and test a version of a normative model using a hierarchial Gaussian process to use normative modelling for site effect correction in multi-site
+        neuroimaging.'
         tags:
-          - Tag 1
-          - Tag 2
-        status: 'Finished'
-        start: '2020'
-        end: '2021'
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
+          - project
+          - publication
+        status: 'Ongoing'
+        start: '2018'
+        end: '2022'
+      - name: PhD project 2 Normative modelling in depression
+        image: '/images/Normative3.jpeg'
         link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        description: 'Both the treatment and the neuro-anatomy underlying depression are  little understood. This can be attributed to the heterogeneity of depression, 
+        combined with the research approach of group average comparisons which cover many inter-individual differences. Normative modelling allows to map variation
+        at an individual level as z-scores of deviations. I studied the neuroanatomical deviations of individuals with '
         status: 'On Hold'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
+          - project
+          - publication
+      - name: PhD project 3 Comparing multi-site harmonisation methods
+        image: '/images/Site_effect_image.jpeg'
         link: https://gohugo.io/
         status: 'Finished'
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'

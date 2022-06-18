@@ -6,15 +6,62 @@
     <description>Recent content on Johanna Bayer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jan 2022 19:58:05 +1100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jan 2022 10:53:14 +1100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy Saturday</title>
+      <link>http://example.org/posts/new_post/</link>
+      <pubDate>Sat, 22 Jan 2022 10:53:14 +1100</pubDate>
+      
+      <guid>http://example.org/posts/new_post/</guid>
+      
+        <description>Going to do pole can progtamming today, together with my favourite yoga class. Then Soxi, my lovely cat. I am so glad to be alive. Pole class was good, but I managed to rupture a vein UNDER my skin on the top of my food. Huge bruise. How is that even possible.</description>
+      
+    </item>
+    
     <item>
       <title>Today is my birthday!</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://example.org/posts/today-is-my-birthday/</link>
       <pubDate>Thu, 06 Jan 2022 19:58:05 +1100</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://example.org/posts/today-is-my-birthday/</guid>
       
         <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cv/</guid>
+      
+        <description>CV Cognitive Psychology, Neuroscience, Computer Science, Machine learning, Artificial Intelligence
+Education  2018-2022 PhD candidate at the University of Melbourne  Normative modelling in depression Normative modelling for multi-site neuroimaging correction Multi-site correction methods    </description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/</guid>
+      
+        <description>All my projects &amp;amp; interests! First, there are my PhD projects:
+ Site coorection in multi-site neuroimaging data using Bayesian Hierachical Methods Comparison of site correction methods Biomarkers of Major Depressive Disorder in cortical thickness data of 10000 individuals from the ENIGMA MDD data set.  Second, there are my additional projects.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/</guid>
+      
+        <description>My publications Bayer, J. M.M., Dinga, R., Kia, S. M., Kottaram, A. R., Wolfers, T., Lv, J., &amp;hellip; &amp;amp; Marquand, A. (2021). Accommodating site variation in neuroimaging data using hierarchical and Bayesian models. bioRxiv Submitted to NeuroImage.
+Gau R*, Noble S*, Heuer K*, Bottenhorn KL*, Bilgin IP*, Yang YF*, Huntenburg JM*, Bayer JMM*, Bethlehem RAI*, Rhoads SA, Vogelbacher C, Borghesani V, Levitis E, Wang HT, Van Den Bossche S, Kobeleva X, Legarreta JH, Guay S, Atay SM, Varoquaux GP, Huijser DC, Sandström MS, Herholz P, Nastase SA, Badhwar A, Dumas G, Schwab S, Moia S, Dayan M, Bassil Y, Brooks PP, Mancini M, Shine JM, O&amp;rsquo;Connor D, Xie X, Poggiali D, Friedrich P, Heinsfeld AS, Riedl L, Toro R, Caballero-Gaudes C, Eklund A, Garner KG, Nolan CR, Demeter DV, Barrios FA, Merchant JS, McDevitt EA, Oostenveld R, Craddock RC, Rokem A, Doyle A, Ghosh SS, Nikolaidis A, Stanley OW, Uruñuela E; Brainhack Community.</description>
       
     </item>
     
