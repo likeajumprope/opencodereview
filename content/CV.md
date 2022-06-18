@@ -1,10 +1,12 @@
-## Here comes what I have done in my life so far
+## Resume
 
-Cognitive Psychology, Neuroscience, Comouter Science, Machine learning
+Cognitive Psychology, Neuroscience, Computer Science, Machine learning, Artificial Intelligence
 
 ## Education
 
-| Date | Role |
-|------|------|
-|2018-2022 | PhD candidate at the University of Melbourne |
-| |  Frist projecr. <br><br> Second project. |
+* 2018-2022 PhD candidate at the University of Melbourne
+    * Normative modelling in depression
+    * Normative modelling for multi-site neuroimaging correction
+    * Multi-site correction methods
+    
+
