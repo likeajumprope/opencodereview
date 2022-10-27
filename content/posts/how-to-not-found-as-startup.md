@@ -1,6 +1,6 @@
 ---
-title: "how to not build a startup"
-date: 2022-27-10
+title: "How to not build a startup"
+date: 2022-10-27T10:53:14+11:00
 Description: "Post"
 Tags: []
 Categories: []
