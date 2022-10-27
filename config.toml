@@ -9,7 +9,7 @@ enableRobotsTXT = true
 [params]
 title = "Hi I'm Jo"
 author = "Johanna Bayer"
-description = "Noise is the grease that allows a theory to slide over unexepected findings"
+description = "Research Fellow at the University of Melbourne. <br> Machine learning, Open Science,<br> Neuroimaging, Computer Science"
 profilePicture = "images/Johanna.jpg"
 
 ## Social links
