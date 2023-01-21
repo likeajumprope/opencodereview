@@ -11,10 +11,10 @@ Cognitive Psychology, Neuroscience, Computer Science, Machine learning, Artifici
 -   Multi-site correction methods (project supervisor Dr. P. Seamann)
 
 
-#### 2017-2018 Smart Start Fellowship by the Bernstein Center of Computational Neuroscience </summary>
+### 2017-2018 Smart Start Fellowship by the Bernstein Center of Computational Neuroscience </summary>
  - Translational Neuro-modelling Group under  Prof. Klaas Enno Stefan
 
 
-#### 2014-2016 Master degree in Neuro-Cognitive Psychology </summary>
+### 2014-2016 Master degree in Neuro-Cognitive Psychology </summary>
 - Master Thesis Topic:  *Multimodal path integration in distance estimation based on Bayesian principles* under  Prof. Stefan Glasauer
         
