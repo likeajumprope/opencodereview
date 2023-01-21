@@ -4,17 +4,12 @@ Cognitive Psychology, Neuroscience, Computer Science, Machine learning, Artifici
 
 ## Education
 
-<details>
-    <summary>2018-2022 PhD candidate at the University of Melbourne</summary>
-    <ul>
-        <li> PhD Topic: Machine learning methods development and application in big data - towards the identification and evaluation of a neuroimaging biomarker for major depressive disorder under  A/Prof. Lianne Schmaal 
-            <ul>
-                <li> Normative modelling in depression
-                <li> Normative modelling for multi-site neuroimaging correction (project supervisor Prof. A. Marquand)
-                <li> Multi-site correction methods (project supervisor Dr. P. Seamann)
-            </ul>
-    </ul>
-</details>
+### 2018-2022 PhD candidate at the University of Melbourne</summary>
+- PhD Topic: Machine learning methods development and application in big data - towards the identification and evaluation of a neuroimaging biomarker for major depressive disorder under  A/Prof. Lianne Schmaal 
+-  Normative modelling in depression
+-   Normative modelling for multi-site neuroimaging correction (project supervisor Prof. A. Marquand)
+-   Multi-site correction methods (project supervisor Dr. P. Seamann)
+
 
 <details>
     <summary>2017-2018 Smart Start Fellowship by the Bernstein Center of Computational Neuroscience </summary>
