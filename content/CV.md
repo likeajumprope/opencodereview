@@ -5,32 +5,16 @@ Cognitive Psychology, Neuroscience, Computer Science, Machine learning, Artifici
 ## Education
 
 ### 2018-2022 PhD candidate at the University of Melbourne</summary>
-- PhD Topic: Machine learning methods development and application in big data - towards the identification and evaluation of a neuroimaging biomarker for major depressive disorder under  A/Prof. Lianne Schmaal 
+#### PhD Topic: Machine learning methods development and application in big data - towards the identification and evaluation of a neuroimaging biomarker for major depressive disorder under  A/Prof. Lianne Schmaal 
 -  Normative modelling in depression
--   Normative modelling for multi-site neuroimaging correction (project supervisor Prof. A. Marquand)
+-  Normative modelling for multi-site neuroimaging correction (project supervisor Prof. A. Marquand)
 -   Multi-site correction methods (project supervisor Dr. P. Seamann)
 
 
-<details>
-    <summary>2017-2018 Smart Start Fellowship by the Bernstein Center of Computational Neuroscience </summary>
-    <ul>
-        <li> Translational Neuro-modelling Group under  Prof. Klaas Enno Stefan
-            <ul>
-                <li> Normative modelling in depression
-                <li> Normative modelling for multi-site neuroimaging correction (project supervisor Prof. A. Marquand)
-                <li> Multi-site correction methods (project supervisor Dr. P. Seamann)
-            </ul>
-    </ul>
-</details>
+#### 2017-2018 Smart Start Fellowship by the Bernstein Center of Computational Neuroscience </summary>
+ - Translational Neuro-modelling Group under  Prof. Klaas Enno Stefan
 
-<details>
-    <summary>2014-2016 Master degree in Neuro-Cognitive Psychology </summary>
-    <ul>
-        <li> Master Thesis Topic:  <i> Multimodal path integration in distance estimation based on Bayesian principles</i>  under  Prof. Stefan Glasauer
-            <ul>
-                <li> Normative modelling in depression
-                <li> Normative modelling for multi-site neuroimaging correction (project supervisor Prof. A. Marquand)
-                <li> Multi-site correction methods (project supervisor Dr. P. Seamann)
-            </ul>
-    </ul>
-</details>
+
+#### 2014-2016 Master degree in Neuro-Cognitive Psychology </summary>
+- Master Thesis Topic:  *Multimodal path integration in distance estimation based on Bayesian principles* under  Prof. Stefan Glasauer
+        
