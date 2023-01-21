@@ -14,7 +14,7 @@ Cognitive Psychology, Neuroscience, Computer Science, Machine learning, Artifici
                 <li> Multi-site correction methods (project supervisor Dr. P. Seamann)
             </ul>
     </ul>
-</details>:
+</details>
 
 <details>
     <summary>2017-2018 Smart Start Fellowship by the Bernstein Center of Computational Neuroscience </summary>
@@ -26,7 +26,7 @@ Cognitive Psychology, Neuroscience, Computer Science, Machine learning, Artifici
                 <li> Multi-site correction methods (project supervisor Dr. P. Seamann)
             </ul>
     </ul>
-</details>:
+</details>
 
 <details>
     <summary>2014-2016 Master degree in Neuro-Cognitive Psychology </summary>
@@ -38,4 +38,4 @@ Cognitive Psychology, Neuroscience, Computer Science, Machine learning, Artifici
                 <li> Multi-site correction methods (project supervisor Dr. P. Seamann)
             </ul>
     </ul>
-</details>:
+</details>
