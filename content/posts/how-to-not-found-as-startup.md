@@ -17,5 +17,7 @@ So: be as precise as possible. Think about what it will be that you will hand ov
 
 2. Keep it low-cost at the beginning. 
 
+3. Have a good communication system.
+
 
 [^1] I have signed an NDA, so all the examples in this post are made up.
