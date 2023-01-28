@@ -38,33 +38,33 @@ portfolioitems:
           - project
           - publication
   # portfolio category
-  - title: Additional projects
-    portfolioitem:
-      - name: Multi-trajectory modelling in ultra high risk for schizophrenia youths
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Neuroanatomical correlates of negative symptoms in schizophrenia
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Cognitive biases in ultra high risk youths
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: CWorking alliance in therapy in ultra high risk youths
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
-        tags:
-          - Tag 1
-          - Tag 2
+  #- title: Additional projects
+  #  portfolioitem:
+  #    - name: Multi-trajectory modelling in ultra high risk for schizophrenia youths
+  #      image: '/images/portfolio/code.jpg'
+  #      link: https://gohugo.io/
+  #      description: 'A description'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
+  #    - name: Neuroanatomical correlates of negative symptoms in schizophrenia
+  #      image: '/images/portfolio/code.jpg'
+  #      link: https://gohugo.io/
+  #      description: 'A description'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
+  #    - name: Cognitive biases in ultra high risk youths
+  #      image: '/images/portfolio/code.jpg'
+  #      link: https://gohugo.io/
+  #      description: 'A description'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
+  #    - name: Working alliance in therapy in ultra high risk youths
+  #      image: '/images/portfolio/code.jpg'
+  #      link: https://gohugo.io/
+  #      description: 'A description'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
