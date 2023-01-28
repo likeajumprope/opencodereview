@@ -9,6 +9,7 @@ draft: false
 ---
 
 ![Failure and success](/static/images/failure.jpeg)
+
 Last summer I was recruited via LinkedIn to work for a machine-learning-oriented startup. To summarize: It was a catastrophe that lasted two months due to mis-management of the founder. 
  Based on this experience, I have collated some piece of advice on how to NOT start a startup[^1].
 
