@@ -14,4 +14,4 @@ The first concept that is introduced is *R* which is considered to be *the relat
 
 So, when the number of true relationships in a field = 0.3 and the number of no relationships = 0.7 then:
 
-{{< highlight py3 >}} R = 0.3/0.7 {{< /highlight >}}
+{{< highlight py3 style=autumn >}} R = 0.3/0.7 {{< /highlight >}}
