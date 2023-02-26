@@ -29,5 +29,5 @@ From this, it is also easy to conclude that the pre-study probability of getting
 which is exactly what we have defined before.
 
 # plotly test
-
+{{< load-plotly >}}
 {{< plotly json="/mtbruno.json" height="500px" >}}
