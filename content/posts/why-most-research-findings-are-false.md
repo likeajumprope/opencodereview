@@ -12,7 +12,7 @@ In his famous paper ["Why most research findings are false"](https://journals.pl
 
 ## Concepts
 
-### R: the relationship between true and false relationships in a field
+#### R: the prior probability
 
 The first concept that is introduced is *R* which is considered to be *the relationship between "true relationships" and "no relationships"* in all tests in a certain field.
 
@@ -26,3 +26,5 @@ From this, it is also easy to conclude that the pre-study probability of getting
 {{< highlight py3 "style=autumn" >}} R/R+1 = 0.25/(0.25+1) = 0.2  {{< /highlight >}}
 
 which is exactly what we have defined before.
+
+Taking into account the prior probability of a research finding being true or false is actually an important step. To illustrate that consider this:  A researcher group presents data that shows that a certain brain region is associated with the full symptom spectrum of depression. We know by now that such one-to-one mappings between a certain brain region and a specific disorder does not exist. This makes such finding *a priori* very unlikely and might be a first indicator that the finding might be not replicable. 
