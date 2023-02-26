@@ -30,4 +30,4 @@ which is exactly what we have defined before.
 
 # plotly test
 {{< plotly >}}
-{{< plotly json="/mtbruno.json" height="500px" >}}
+{{< plotly json="mtbruno.json" height="500px" >}}
