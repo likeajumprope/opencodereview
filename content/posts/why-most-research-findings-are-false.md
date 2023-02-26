@@ -7,6 +7,7 @@ Categories: []
 DisableComments: true
 draft: false
 ploty: true
+
 ---
 
 In his famous paper ["Why most research findings are false"](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) Dr. John Ioannidis proofs that most research findings are false. Given that his paper is quite technical, I will go over his rationale here again.
@@ -29,5 +30,5 @@ From this, it is also easy to conclude that the pre-study probability of getting
 which is exactly what we have defined before.
 
 # plotly test
-{{< plotly >}}
+{{< load-plotly >}}
 {{< plotly json="mtbruno.json" height="500px" >}}
