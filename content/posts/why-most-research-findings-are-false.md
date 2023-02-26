@@ -2,7 +2,7 @@
 title: "Why most research findings are false"
 date: 2023-01-27T10:53:14+11:00
 Description: "Post"
-Tags: []
+Tags: ['reproducibility']
 Categories: []
 DisableComments: true
 draft: false
@@ -12,7 +12,7 @@ In his famous paper ["Why most research findings are false"](https://journals.pl
 
 ## Concepts
 
-#### R: the prior probability
+1.  R: the prior probability
 
 The first concept that is introduced is *R* which is considered to be *the relationship between "true relationships" and "no relationships"* in all tests in a certain field.
 
