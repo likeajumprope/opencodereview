@@ -8,11 +8,11 @@ DisableComments: true
 draft: false
 ---
 
-In his famous paper ["Why most research findings are false"](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) Dr. John Ioannidis proofs that most research findings are false. Given that his paper is quite technical, I will go over his rationale here again.
+In his famous paper ["Why most published research findings are false"](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) Dr. John Ioannidis proofs that most research findings are false. Given that his paper is quite technical, I will go over his rationale here again.
 
 ## Concepts
 
-1.  R: the prior probability
+### 1. R: the prior probability
 
 The first concept that is introduced is *R* which is considered to be *the relationship between "true relationships" and "no relationships"* in all tests in a certain field.
 
@@ -25,6 +25,16 @@ From this, it is also easy to conclude that the pre-study probability of getting
 
 {{< highlight py3 "style=autumn" >}} R/R+1 = 0.25/(0.25+1) = 0.2  {{< /highlight >}}
 
+```
+R = R/R+1 = 0.25/(0.25+1) = 0.2 
+````
+
+
 which is exactly what we have defined before.
 
 Taking into account the prior probability of a research finding being true or false is actually an important step. To illustrate that consider this:  A researcher group presents data that shows that a certain brain region is associated with the full symptom spectrum of depression. We know by now that such one-to-one mappings between a certain brain region and a specific disorder does not exist. This makes such finding *a priori* very unlikely and might be a first indicator that the finding might be not replicable. 
+
+### 2. The relationship between power, sample size, effect size and type I error $\alpha$.
+
+A second very important concept is the relationship of certain probabilities within the statistical testing framework.
+
