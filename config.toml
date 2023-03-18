@@ -6,6 +6,10 @@ summarylength = 50
 enableEmoji = true
 enableRobotsTXT = true
 
+[math]
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
 [params]
 title = "Hi I'm Jo"
 author = "Johanna Bayer"
@@ -33,10 +37,6 @@ url = "https://www.instagram.com/likeajumprope"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:bayerj@student.unimelb.edu.au"
-
-[[params.math]]
-enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 [menu]
  [[menu.main]]
