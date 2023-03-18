@@ -6,6 +6,7 @@ Tags: ['reproducibility']
 Categories: []
 DisableComments: true
 draft: false
+math: true
 ---
 
 In his famous paper ["Why most published research findings are false"](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) Dr. John Ioannidis proofs that most research findings are false. Given that his paper is quite technical, I will go over his rationale here again.
