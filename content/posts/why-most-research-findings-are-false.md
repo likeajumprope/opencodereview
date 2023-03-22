@@ -38,9 +38,3 @@ Taking into account the prior probability of a research finding being true or fa
 ### 2. The relationship between power, sample size, effect size and type I error $$\alpha$$
 
 A second very important concept is the relationship of certain probabilities within the statistical testing framework.
-
-{{<table “table table-striped table-bordered">}}
-|———-|———-|———-|
-| Item 1   | Item 2   | Item 3   |
-| Item 1a  | Item 2a  | Item 3a  |
-{{</table>}}
