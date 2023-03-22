@@ -39,7 +39,7 @@ Taking into account the prior probability of a research finding being true or fa
 
 A second very important concept is the relationship of certain probabilities within the statistical testing framework.
 
-| Header 1 | Null hypothesis | ALternative hypothesis |
-|----------|----------|----------|
-| Erroneous choice    | type I error (alpha)  | type II error (beta)   |
-| Correct choice  | correctly accept the null hypothesis  | correctly accept the alternative hypothesis (power)  |
+| Type of choice      | Null hypothesis             | Alternative hypothesis |
+|---------------------|-----------------------------|------------------------|
+| Erroneous choice    | type I error (alpha)        | type II error (beta)   |
+| Correct choice      | correctly accept the null hypothesis  | correctly accept the alternative hypothesis (power)  |
