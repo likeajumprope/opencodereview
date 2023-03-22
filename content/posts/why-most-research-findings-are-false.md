@@ -41,5 +41,5 @@ A second very important concept is the relationship of certain probabilities wit
 
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
-| Item 1   | Item 2   | Item 3   |
+| Item 1   | type I error ($$/alpha$$)  | Item 3   |
 | Item 1a  | Item 2a  | Item 3a  |
