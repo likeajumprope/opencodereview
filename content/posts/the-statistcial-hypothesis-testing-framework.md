@@ -13,8 +13,8 @@ math: true
 
 A second very important concept is the relationship of certain probabilities within the framework of statistical hypothesis testing.
 
-| Type of choice      | Null hypothesis             | Alternative hypothesis |
-|---------------------|-----------------------------|------------------------|
+| Type of choice      | Null hypothesis                | Alternative hypothesis |
+|---------------------|:----------------------------:|------------------------|
 | Erroneous choice    | type I error (alpha)        | type II error (beta)   |
 | Correct choice      | correctly accept the null hypothesis  | correctly accept the alternative hypothesis (power)  |
 
