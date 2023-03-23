@@ -19,3 +19,9 @@ A second very important concept is the relationship of certain probabilities wit
 | Correct choice      | correctly accept the null hypothesis  | correctly accept the alternative hypothesis (power)  |
 
 Alpha is the level of significance that is used to determine whether a null hypothesis can be rejected. Power (1- beta) is the probability of correctly rejecting the null hypothesis when it is false.
+
+{{<table “table table-striped table-bordered">}}
+|———-|———-|———-|
+| Item 1   | Item 2   | Item 3   |
+| Item 1a  | Item 2a  | Item 3a  |
+{{</table>}}
