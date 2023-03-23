@@ -13,10 +13,11 @@ math: true
 
 A second very important concept is the relationship of certain probabilities within the framework of statistical hypothesis testing.
 
-| Type of choice      | Null hypothesis                | Alternative hypothesis |
+| Type of choice      | Null hypothesis                 Alternative hypothesis  |
 |:--------------------:|:----------------------------:|:------------------------:|
-| Erroneous choice    | type I error (alpha)          | type II error (beta)   |
-| Correct choice      | correctly accept the null hypothesis  | correctly accept the alternative hypothesis (power)  |
+| Erroneous choice    | type I error (alpha)          | type II error (beta)     ||
+| Correct choice      | correctly accept the line\     | correctly accept the    |
+|                     | null hypothesis               |alternative hypothesis (power)|
 
 Alpha is the level of significance that is used to determine whether a null hypothesis can be rejected. Power (1- beta) is the probability of correctly rejecting the null hypothesis when it is false.
 
