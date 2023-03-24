@@ -14,7 +14,16 @@ math: true
 A second very important concept is the relationship of certain probabilities within the framework of statistical hypothesis testing.
 
 
-There are several important concepts in statistics that are closely related when it comes to hypothesis testing. Alpha is the level of significance that is used to determine whether a null hypothesis can be rejected. It is usually set to 0.05 (one sided testing) or 0.025 (two sides testing). Power is the probability of correctly rejecting  the null hypothesis when it is false, and accepting the alternative hypothesis. Sample size refers to the number N of observations in a study. Effect size is a measure of the magnitude of a difference or relationship in the data, for example between to populations. 
+There are several important concepts in statistics that are closely related when it comes to hypothesis testing. 
+
+
+\\(\alpha\\)  is the level of error that is accepted for erroneously rejecting the null hypothesis (although it is true) e rejected. It is usually set to 0.05 (one sided testing) or 0.025 (two sides testing). 
+
+Power is the probability of correctly rejecting  the null hypothesis when it is false, and accepting the alternative hypothesis. 
+
+Sample size refers to the number N of observations in a study. 
+
+Effect size is a measure of the magnitude of a difference or relationship in the data, for example between to populations. 
 
 
 | Type of choice      | Null hypothesis               | Alternative hypothesis  |
@@ -28,3 +37,6 @@ These concepts are interconnected because the choice of \\(\alpha\\) sample size
 ![image alt text](/images/power_failure_effect.png)
 
 
+### The relationship
+
+\\(Effect size = \frac{mean - mean}{standard deviation}\\)
