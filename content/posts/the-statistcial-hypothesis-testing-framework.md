@@ -41,6 +41,6 @@ These concepts are interconnected because the choice of \\(\alpha\\) sample size
 The effect size \\(\delta\\) is the difference between two group means \\(\mu_1\\)
 and \\(\mu_2\\) (the peaks in the figure above) divided by the standard deviation \\(\sigma\\)
 
-Effect size \\(= \frac{mu_1 - mu_2}{\sigma}\\)
+Effect size \\(\delta\\) \\(= \frac{\mu_1 - \mu_2}{\sigma}\\)
 
 as we can see, the effect that can be detected is directly related to teh standard deviation \\(\sigma\\).
