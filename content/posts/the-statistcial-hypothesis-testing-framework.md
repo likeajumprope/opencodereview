@@ -23,7 +23,7 @@ There are several important concepts in statistics that are closely related when
 | Correct choice      | correctly accept the      | correctly accept the    |
 |                     | null hypothesis               |alternative hypothesis (power)|
 
-These concepts are interconnected because the choice of $\alpha$, sample size, and effect size can all impact the power of a statistical test. For example, increasing the sample size can increase power, while decreasing alpha can decrease power. Similarly, larger effect sizes are more likely to be detected with greater power, while smaller effect sizes may require larger sample sizes to achieve the same level of power.
+These concepts are interconnected because the choice of $\alpha$,\\(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\\)sample size, and effect size can all impact the power of a statistical test. For example, increasing the sample size can increase power, while decreasing alpha can decrease power. Similarly, larger effect sizes are more likely to be detected with greater power, while smaller effect sizes may require larger sample sizes to achieve the same level of power.
 
 ![image alt text](/images/power_failure_effect.png)
 
