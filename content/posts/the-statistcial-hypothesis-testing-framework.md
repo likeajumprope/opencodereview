@@ -18,7 +18,7 @@ There are several important concepts in statistics that are closely related when
 
 
 | Type of choice      | Null hypothesis               | Alternative hypothesis  |
-|:--------------------|:----------------------------|:------------------------|
+|:-----------------   |:----------------------------|:------------------------|
 | Erroneous choice    | type I error (alpha)          | type II error (beta)     |
 | Correct choice      | correctly accept the      | correctly accept the    |
 |                     | null hypothesis               |alternative hypothesis (power)|
