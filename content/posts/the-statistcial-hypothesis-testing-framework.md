@@ -36,7 +36,7 @@ These concepts are interconnected because the choice of \\(\alpha\\) sample size
 
 ![image alt text](/images/power_failure_effect.png)
 
-### The relationship
+### The relationship between standard deviation and effect size
 
 The effect size \\(\delta\\) is the difference between two group means \\(\mu_1\\)
 and \\(\mu_2\\) (the peaks in the figure above) divided by the standard deviation \\(\sigma\\)
@@ -56,8 +56,18 @@ From the above we can directly see that the  resulting effect size from those gr
 Let's just test that:
 
 Effect size \\(\delta\\) \\(= \frac{ 0.2 }{ 0.5}\\) = 0.4
+
 Effect size \\(\delta\\) \\(= \frac{ 0.2 }{ 0.2}\\) = 0.25
 
-Visually, this relationship becomes clear: A smaller standard deviation means a "narrower" distribution and less overlap between the curves.
+Visually, this relationship becomes clear: A smaller standard deviation means a "narrower" distribution and less overlap between the curves. Thus, the effect size is an expression of how precise one is to measure a certain difference between two group means.
+
+So, what makes a standard deviation small?
+
+# What makes the standard deviation small?
+
+First of all, let's remind ourselves of the relationship between variance and standard deviation:
+
+Var =  \\(sqrt(\sigma_2)\\)
 
 
+References: [This paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/) and [this website](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_power/bs704_power_print.html) are really nice.
