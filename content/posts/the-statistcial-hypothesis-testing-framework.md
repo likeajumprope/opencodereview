@@ -41,6 +41,23 @@ These concepts are interconnected because the choice of \\(\alpha\\) sample size
 The effect size \\(\delta\\) is the difference between two group means \\(\mu_1\\)
 and \\(\mu_2\\) (the peaks in the figure above) divided by the standard deviation \\(\sigma\\)
 
-Effect size \\(\delta\\) \\(= \frac{\mu_1 - \mu_2}{\sigma}\\)
+Effect size \\(\delta\\) \\(= \frac{ \mu_1 -  \mu_2}{ \sigma}\\)
 
-as we can see, the effect that can be detected is directly related to teh standard deviation \\(\sigma\\).
+as we can see, the effect that can be detected is directly related to the standard deviation \\(\sigma\\).
+
+To given an example:
+
+Let's assume we have two group means \\(\mu_1\\) = 0.4 and \\(\mu_2\\) = 0.2 and two standard deviations \\(\sigma_1\\) = 0.5 and \\(\sigma_2\\) = 0.8. Let's just plug in the means  into the formula above:
+
+Effect size \\(\delta\\) \\(= \frac{ 0.4 -  0.2}{ \sigma}\\)
+
+From the above we can directly see that the  resulting effect size from those group means depends on the standard deviation in the denominator. 
+
+Let's just test that:
+
+Effect size \\(\delta\\) \\(= \frac{ 0.2 }{ 0.5}\\) = 0.4
+Effect size \\(\delta\\) \\(= \frac{ 0.2 }{ 0.2}\\) = 0.25
+
+Visually, this relationship becomes clear: A smaller standard deviation means a "narrower" distribution and less overlap between the curves.
+
+
