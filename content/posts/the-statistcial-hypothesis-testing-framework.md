@@ -57,7 +57,7 @@ Let's just test that:
 
 Effect size \\(\delta\\) \\(= \frac{ 0.2 }{ 0.5}\\) = 0.4
 
-Effect size \\(\delta\\) \\(= \frac{ 0.2 }{ 0.2}\\) = 0.25
+Effect size \\(\delta\\) \\(= \frac{ 0.2 }{ 0.8}\\) = 0.25
 
 Visually, this relationship becomes clear: A smaller standard deviation means a "narrower" distribution and less overlap between the curves. Thus, the effect size is an expression of how precise one is to measure a certain difference between two group means.
 
