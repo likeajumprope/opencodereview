@@ -67,7 +67,7 @@ So, what makes a standard deviation small?
 
 First of all, let's remind ourselves of the relationship between variance and standard deviation:
 
-Var =  \\(sqrt(\sigma_2)\\)
+Var =  \\(sqrt{\sigma_2}\\)
 
 
 References: [This paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/) and [this website](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_power/bs704_power_print.html) are really nice.
