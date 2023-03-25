@@ -63,7 +63,7 @@ Visually, this relationship becomes clear: A smaller standard deviation means a 
 
 So, what makes a standard deviation small?
 
-# What makes the standard deviation small?
+## What makes the standard deviation small?
 
 First of all, let's remind ourselves of the relationship between variance and standard deviation:
 
