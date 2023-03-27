@@ -25,16 +25,12 @@ Sample size refers to the number N of observations in a study.
 
 Effect size is a measure of the magnitude of a difference or relationship in the data, for example between to populations. 
 
+![image hypotheses](/images/experimental_results.png)
 
-| Type of choice      | Null hypothesis               | Alternative hypothesis  |
-|:-----------------   |:----------------------------|:------------------------|
-| Erroneous choice    | type I error (alpha)          | type II error (beta)     |
-| Correct choice      | correctly accept the      | correctly accept the    |
-|                     | null hypothesis               |alternative hypothesis (power)|
 
 These concepts are interconnected because the choice of \\(\alpha\\) sample size, and effect size can all impact the power \\(1 - \beta\\)  of a statistical test. For example, increasing the sample size can increase power, while decreasing alpha can decrease power. Similarly, larger effect sizes are more likely to be detected with greater power, while smaller effect sizes may require larger sample sizes to achieve the same level of power.
 
-![image alt text](/images/power_failure_effect.png)
+![image power failure](/images/power_failure_effect.png)
 
 ### The relationship between standard deviation and effect size
 
