@@ -75,6 +75,9 @@ Let's just remind ourselves that the variance is just the averaged squared diffe
 
 Var = \\(\frac{\sum_{i=1}^{n}(x_i - \mu)^2} {n}\\)
 
+From ththe above we can see that teh variance Var is directly related to N (larger N leads to smaller variance) - and if we take the root to get back to the standard deviation: 
+
+\\({\sigma}\\) = \\(\sqrt{\frac{\sum_{i=1}^{n}(x_i - \mu)^2}} {\sqrt{n}}\\)
 
 
 References: [This paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/) and [this website](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_power/bs704_power_print.html) are really nice.
