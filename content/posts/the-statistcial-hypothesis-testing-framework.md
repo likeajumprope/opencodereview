@@ -71,5 +71,10 @@ Var =  \\({\sigma}^2\\)
 
 thus: \\({\sigma}\\) = \\(\sqrt{Var}\\)
 
+Let's just remind ourselves that the variance is just the averaged squared difference of each point in the data set from the mean:
+
+Var = \\(\frac{\sum_{i=1}^{n}(x_i - \mu)^2} {n}\\)
+
+
 
 References: [This paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/) and [this website](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_power/bs704_power_print.html) are really nice.
