@@ -35,11 +35,14 @@ which is exactly what we have defined before.
 
 Taking into account the prior probability of a research finding being true or false is actually an important step. To illustrate that consider this:  A researcher group presents data that shows that a certain brain region is associated with the full symptom spectrum of depression. We know by now that such one-to-one mappings between a certain brain region and a specific disorder does not exist. This makes such finding *a priori* very unlikely and might be a first indicator that the finding might be not replicable. 
 
-### 2. The relationship between power, sample size, effect size and type I error aplha
+### The relationship between power, alpha and sample size.
 
-A second very important concept is the relationship of certain probabilities within the statistical testing framework.
+For a refresher on the relationship between power, \\(\alpha)\\ and sample size, see my previous post.
+One very interesting (and concerning) consequence of low sample size and resulting low power is that the power (the probability of correctly rejecting the null hypothesis) can fall BELOW the set \\(\alpha)\\ rate:
 
-| Type of choice      | Null hypothesis             | Alternative hypothesis |
-|---------------------|-----------------------------|------------------------|
-| Erroneous choice    | type I error (alpha)        | type II error (beta)   |
-| Correct choice      | correctly accept the null hypothesis  | correctly accept the alternative hypothesis (power)  |
+$$
+(1- \beta)R < \alpha
+$$
+
+
+The consequence of this is that a significant effect is more likely a false positive than a true result!
