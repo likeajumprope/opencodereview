@@ -5,7 +5,7 @@ Description: "Post"
 Tags: []
 Categories: []
 DisableComments: true
-draft: false
+draft: true
 ---
 
 ![Failure and success](/images/failure.jpeg)
@@ -19,8 +19,17 @@ A successful startup begins with a minimal viable product (MVP), not with a visi
 So: be as precise as possible. Think about what it will be that you will hand over to the client in the end.
 
 2. Keep it low-cost at the beginning. 
+Even if you have secured some funding - make sure to keep an eye on your money. You can use some code or product low -cost? Don't spend money on re-inventing the wheel. Your staff member do not need to be in the meeting? Don't pay them to be there.
+I have attended meetings where I did not say a word and got paid for the hour. Good for me, of course, but not for the business. 
+Make a business plan and stick to it, and track your expenses.
 
 3. Have a good communication system.
+
+Some obvious ones:
+
+4. Don't use drugs
+
+5. Don't hire another company to help you with founding a company.
    
 {{< highlight go >}} A bunch of code here {{< /highlight >}}
 
