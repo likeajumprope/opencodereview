@@ -32,7 +32,7 @@ These concepts are interconnected because the choice of \\(\alpha\\) sample size
 
 ![image power failure](/images/power_failure_effect.png)
 
-### The relationship between standard deviation and effect size
+## The relationship between standard deviation and effect size
 
 The effect size \\(\delta\\) is the difference between two group means \\(\mu_1\\)
 and \\(\mu_2\\) (the peaks in the figure above) divided by the standard deviation \\(\sigma\\)
@@ -74,6 +74,9 @@ Var = \\(\frac{\sum_{i=1}^{n}(x_i - \mu)^2} {n}\\)
 From ththe above we can see that teh variance Var is directly related to N (larger N leads to smaller variance) - and if we take the root to get back to the standard deviation: 
 
 \\({\sigma}\\) = \\(\frac{\sqrt{\sum_{i=1}^{n}(x_i - \mu)^2}} {\sqrt{n}}\\)
+
+Thus, as we can see, the standard deviation is directly related to \\(\sqrt(n)\\) - the larger the sample size, the smaller the standard deviation.
+
 
 
 References: [This paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/) and [this website](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_power/bs704_power_print.html) are really nice.
