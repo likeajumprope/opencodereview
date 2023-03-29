@@ -6,6 +6,7 @@ Tags: ['bayestheorem', 'statistics']
 Categories: []
 DisableComments: true
 draft: false
+math: true
 ---
 
 In this post, I want to dive into the interesting relationship between conditional and marginal probability within the Bayesian framework and how it can trick us into misleading conclusions.
