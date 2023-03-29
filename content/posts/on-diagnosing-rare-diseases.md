@@ -21,7 +21,7 @@ First of all, despite the symptoms, the overall prevalence of the disease D is v
 ### Conditional probability P(S|D)
 
 However, we have also defined that the patient presents with a lot of symptoms S that point towards the disease D.
-Let's say that the patient shows all the symptoms S that are usually present in the disease D. We call this probability of the symptoms given that D is present *conditional probability* //(P(S^+|D^+)//). In our case, we have defined that the patient shows all the symptoms that are associated with the disease D, so P(S|D) is rather high. Let's say P(S+|D+) = 0.9.
+Let's say that the patient shows all the symptoms S that are usually present in the disease D. We call this probability of the symptoms given that D is present *conditional probability* //(P(S+|D+)//). In our case, we have defined that the patient shows all the symptoms that are associated with the disease D, so P(S|D) is rather high. Let's say P(S+|D+) = 0.9.
 
 ### Bayes Theorem
 
