@@ -27,7 +27,7 @@ Let's say that the patient shows all the symptoms S that are usually present in 
 
 What wer are really interested in, however is not P(S+|D+), but the posterior probability P(D+|S+), or, how likely is it that the person has the disease, given the symptoms S+?
 
-according to Bayes' theorem, we can compute the posterior probability:
+According to Bayes' theorem, we can compute the posterior probability:
 
 $$
 P(D+|S+)=\frac{P(D+) P(S+|D+)}{P(S+)}
