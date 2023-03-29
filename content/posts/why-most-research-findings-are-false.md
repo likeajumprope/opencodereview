@@ -54,3 +54,7 @@ Graphically this looks like the following:
 ![image power failure alpha beta](/images/Power_failure_alpha_beta.png)
 
 The consequence of this is that a significant effect is more likely a false positive than a true result!
+
+## 3. The post study probability: the positive predictive value (PPV)
+
+We have now learned about the pre-study odds and probabilities. However, in research we do not stop here. Instead, we conduct a test with a certain power \\(\beta\\) and a set type I error rate \\(\alpha\\).
