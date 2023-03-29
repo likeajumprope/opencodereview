@@ -17,13 +17,13 @@ A second very important concept is the relationship of certain probabilities wit
 There are several important concepts in statistics that are closely related when it comes to hypothesis testing. 
 
 
-\\(\alpha\\)  is the level of error that is accepted for erroneously rejecting the null hypothesis (although it is true) e rejected. It is usually set to 0.05 (one sided testing) or 0.025 (two sides testing). 
+- \\(\alpha\\)  is the level of error that is accepted for erroneously rejecting the null hypothesis (although it is true) e rejected. It is usually set to 0.05 (one sided testing) or 0.025 (two sides testing). 
 
-Power is the probability of correctly rejecting  the null hypothesis when it is false, and accepting the alternative hypothesis. 
+- Power is the probability of correctly rejecting  the null hypothesis when it is false, and accepting the alternative hypothesis. 
 
-Sample size refers to the number N of observations in a study. 
+- Sample size refers to the number N of observations in a study. 
 
-Effect size is a measure of the magnitude of a difference or relationship in the data, for example between to populations. 
+- Effect size is a measure of the magnitude of a difference or relationship in the data, for example between to populations. 
 
 ![image hypotheses](/images/experimental_results.png)
 
