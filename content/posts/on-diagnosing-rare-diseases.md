@@ -29,6 +29,6 @@ What wer are really interested in, however is not P(S+|D+), but the posterior pr
 according to Bayes' theorem, we can compute the posterior probability:
 
 $$
-P(D^+|S^+)=\frac{P(D^+) P(S^+|D^+)}{P(S^+)}
+P(D+|S+)=\frac{P(D+) P(S+|D+)}{P(S+)}
 $$
 
