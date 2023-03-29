@@ -15,7 +15,7 @@ In his famous paper ["Why most published research findings are false"](https://j
 
 ### 1. R: the prior probability
 
-The first concept that is introduced is *R* which is considered to be *the relationship between "true relationships" and "no relationships"* in all tests in a certain field.
+The first concept that is introduced is *R* which is considered to be *the relationship between "true relationships" and "no relationships"* in all tests in a certain field *before any test or study has been undertaken*. We will discuss later why this consideration is important; first of all it is important to understand this concept. To give an example: If 20% of people have a specific disease (for example diabetes), then the probability of randomly selecting a person with diabetes without any other knowledge and tests from teh population is 0.2.
 
 When the number of true relationships in a field = 0.2 and the number of no relationships = 0.8 then:
 
@@ -25,7 +25,7 @@ When the number of true relationships in a field = 0.2 and the number of no rela
 
 Thus, *R* is just the ratio of true and false relationships before any study has been undertaken. Or, if you would select randomly, you you would find that 30% of tests turn out true and 70% turn out false.
 
-From this, it is also easy to conclude that the pre-study probability of getting a true test is:
+From this, it is also easy to conclude that the pre-study probability of a true association is:
 
 ```
 R/R+1 = 0.25/(0.25+1) = 0.2 
@@ -33,9 +33,15 @@ R/R+1 = 0.25/(0.25+1) = 0.2
 
 which is exactly what we have defined before.
 
+Similarly, the pre-study probability of selecting a no-association result is: 
+
+```
+1/R+1 = 01/(0.25+1) = 1/1.25 = 0.8
+```
+
 Taking into account the prior probability of a research finding being true or false is actually an important step. To illustrate that consider this:  A researcher group presents data that shows that a certain brain region is associated with the full symptom spectrum of depression. We know by now that such one-to-one mappings between a certain brain region and a specific disorder does not exist. This makes such finding *a priori* very unlikely and might be a first indicator that the finding might be not replicable. 
 
-### The relationship between power, alpha and sample size.
+## 2. The relationship between power, alpha and sample size.
 
 For a refresher on the relationship between power, \\(\alpha)\\ and sample size, see my previous post.
 One very interesting (and concerning) consequence of low sample size and resulting low power is that the power (the probability of correctly rejecting the null hypothesis) can fall BELOW the set \\(\alpha)\\ rate:
@@ -43,6 +49,8 @@ One very interesting (and concerning) consequence of low sample size and resulti
 $$
 (1- \beta)R < \alpha
 $$
+Graphically this looks like the following:
 
+![image power failure alpha beta](/images/Power_failure_alpha_beta.png)
 
 The consequence of this is that a significant effect is more likely a false positive than a true result!
