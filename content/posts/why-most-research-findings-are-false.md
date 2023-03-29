@@ -43,8 +43,8 @@ Taking into account the prior probability of a research finding being true or fa
 
 ## 2. The relationship between power, alpha and sample size.
 
-For a refresher on the relationship between power, \\(\alpha)\\ and sample size, see my previous post.
-One very interesting (and concerning) consequence of low sample size and resulting low power is that the power (the probability of correctly rejecting the null hypothesis) can fall BELOW the set \\(\alpha)\\ rate:
+For a refresher on the relationship between power, \\(\alpha\\) and sample size, see my previous post.
+One very interesting (and concerning) consequence of low sample size and resulting low power is that the power (the probability of correctly rejecting the null hypothesis) can fall BELOW the set \\(\alpha\\) rate:
 
 $$
 (1- \beta)R < \alpha
