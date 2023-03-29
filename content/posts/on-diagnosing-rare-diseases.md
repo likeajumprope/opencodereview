@@ -33,3 +33,4 @@ $$
 P(D+|S+)=\frac{P(D+) P(S+|D+)}{P(S+)}
 $$
 
+we have P(D+) = 0.001 and P(S+|D+) = 0.9, but what is still missing to calculate the posterior probability is the probability of P(S+).
