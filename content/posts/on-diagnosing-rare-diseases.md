@@ -35,13 +35,18 @@ $$
 
 we have P(D+) = 0.001 and P(S+|D+) = 0.9, but what is still missing to calculate the posterior probability is the probability of P(S+).
 
-The probability P(S+) is composed of two conditional probabilities: The probability that the symptom is present while the disease s=is present P(S+|D+) and the probability that the symptom is present while teh disease is absent P(S+|D-). 
+The probability P(S+) is composed of two conditional probabilities: The probability that the symptom is present while the disease is present P(S+|D+) and the probability that the symptom is present while teh disease is absent P(S+|D-). 
 
 We now have again to weight those probabilities again by the marginal probabilities P(D+) and P (D-):
 
 $$
-P(S+)=[P(D+)×P(S+∣∣D+)]+[P(D−)×P(S+∣∣D−)]
+P(S+)=[P(D+)×P(S+∣D+)]+[P(D−)×P(S+∣D−)]
 $$
 
+### Prevalence, sensitivity and specificity
 
-Together these two probabilities add up to P(S+).
+Terms that are often used in test theory are sensitivity, specificity and prevalence. It turns out that those terms coincide with the probabilities that we have just discussed!
+
+- Prevalence is the marginal probability (in our case that the disease is present): P(D+).
+- Sensitivity is a conditional probability (in our case that the symptoms are present given that the disease is present): P(S+|D+). In our case, the sensitivity specifies how "sensitive" the symptoms are for the disease.
+- Specificity describes the probability that the symptoms are not present when the disease is not present: P(S-|D-).
