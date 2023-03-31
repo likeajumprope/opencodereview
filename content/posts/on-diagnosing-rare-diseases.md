@@ -21,7 +21,7 @@ First of all, despite the symptoms, the overall prevalence of the disease D is v
 ### Conditional probability P(S|D)
 
 However, we have also defined that the patient presents with a lot of symptoms S that point towards the disease D.
-Let's say that the patient shows all the symptoms S that are usually present in the disease D. We call this probability of the symptoms given that D is present *conditional probability* //(P(S+|D+)//). In our case, we have defined that the patient shows all the symptoms that are associated with the disease D, so P(S|D) is rather high. Let's say P(S+|D+) = 0.9.
+Let's say that the patient shows all the symptoms S that are usually present in the disease D. We call this probability of the symptoms given that D is present *conditional probability* SP(S+|D+). In our case, we have defined that the patient shows all the symptoms that are associated with the disease D, so P(S|D) is rather high. Let's say P(S+|D+) = 0.9.
 
 ### Bayes Theorem
 
@@ -34,3 +34,14 @@ P(D+|S+)=\frac{P(D+) P(S+|D+)}{P(S+)}
 $$
 
 we have P(D+) = 0.001 and P(S+|D+) = 0.9, but what is still missing to calculate the posterior probability is the probability of P(S+).
+
+The probability P(S+) is composed of two conditional probabilities: The probability that the symptom is present while the disease s=is present P(S+|D+) and the probability that the symptom is present while teh disease is absent P(S+|D-). 
+
+We now have again to weight those probabilities again by the marginal probabilities P(D+) and P (D-):
+
+$$
+P(S+)=[P(D+)×P(S+∣∣D+)]+[P(D−)×P(S+∣∣D−)]
+$$
+
+
+Together these two probabilities add up to P(S+).
