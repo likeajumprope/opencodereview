@@ -5,6 +5,7 @@ theme = "anatole"
 summarylength = 50
 enableEmoji = true
 enableRobotsTXT = true
+favicon = "favicons/"
 
 [math]
 enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
