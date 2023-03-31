@@ -47,6 +47,6 @@ $$
 
 Terms that are often used in test theory are sensitivity, specificity and prevalence. It turns out that those terms coincide with the probabilities that we have just discussed!
 
-- Prevalence is the marginal probability (in our case that the disease is present): P(D+).
-- Sensitivity is a conditional probability (in our case that the symptoms are present given that the disease is present): P(S+|D+). In our case, the sensitivity specifies how "sensitive" the symptoms are for the disease.
-- Specificity describes the probability that the symptoms are not present when the disease is not present: P(S-|D-).
+- *Prevalence* is the marginal probability (in our case that the disease is present): P(D+).
+- *Sensitivity* is a conditional probability (in our case that the symptoms are present given that the disease is present): P(S+|D+). In our case, the sensitivity specifies how "sensitive" the symptoms are for the disease.
+- *Specificity* describes the probability that the symptoms are not present when the disease is not present: P(S-|D-).
