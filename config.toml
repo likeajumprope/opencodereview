@@ -22,7 +22,7 @@ profilePicture = "images/Johanna.jpg"
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/johanna-bayer/"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
