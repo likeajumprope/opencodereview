@@ -61,19 +61,19 @@ The consequence of this is that a significant effect is more likely a false posi
 
 We have now learned about the pre-study odds and probabilities. However, in research we do not stop here. Instead, we conduct a test with a certain power \\(\beta\\) and a set type I error rate \\(\alpha\\).
 
-We thus weigh the probabilities of a prior association \\(\frac{R}{R+1}\\) and a prior non-association \\(\frac{1}{R+1}\\) with the "likelihood"s" \\(\alpha\\) and \\(\beta\\ to get the related posterior probabilities. If we have a closer look we can also see that these tow probabilities cover all the cases that a research finding F+ can come up as "true"  in a study when it is actually true T+:
+We thus weigh the probabilities of a prior association \\(\frac{R}{R+1}\\) and a prior non-association \\(\frac{1}{R+1}\\) with the "likelihood"s" \\(\alpha\\) and \\(\beta\\ to get the related posterior probabilities. If we have a closer look we can also see that these tow probabilities cover all the cases that a research finding F+ can come up as "true"  in a study when the underlying association is actually true A+:
 
 $$
-P(F+|T+) = (1- \beta) * \frac{R}{R+1} = \frac{(1- \beta)*R}{R+1}
+P(F+|A+) = (1- \beta) * \frac{R}{R+1} = \frac{(1- \beta)*R}{R+1}
 $$
 
 and
 
 $$
-P(F+|T-) = \alpha * \frac{1}{R+1} = \frac{\alpha}{R+1}
+P(F+|A-) = \alpha * \frac{1}{R+1} = \frac{\alpha}{R+1}
 $$
 
-The first case P(F+|T+) describes the case that a finding comes up as true and is, indeed, true. teh second case P(F+|T-), describes the event that the finding comes up as true and is not true, or better, a type I error.
+The first case P(F+|T+) describes the case that a finding comes up as true and is, indeed, true. teh second case P(F+|A-), describes the event that the finding comes up as true and is not true, or better, a type I error.
 
 Together, these two probabilities span the events in which a positive finding comes up P(F+):
 
