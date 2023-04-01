@@ -59,8 +59,14 @@ The consequence of this is that a significant effect is more likely a false posi
 
 We have now learned about the pre-study odds and probabilities. However, in research we do not stop here. Instead, we conduct a test with a certain power \\(\beta\\) and a set type I error rate \\(\alpha\\).
 
-We thus weigh the probabilities of a prior association \\(\frac{R}{R+1}\\) and a prior non-association \\(\frac{1}{R+1}\\) with the "likelihoods \\(\alpha\\) and \\(\beta\\):
+We thus weigh the probabilities of a prior association \\(\frac{R}{R+1}\\) and a prior non-association \\(\frac{1}{R+1}\\) with the "likelihood"s" \\(\alpha\\) and \\(\beta\\):
 
 $$
 (1- \beta) * \frac{R}{R+1} = \frac{(1- \beta)*R}{R+1}
+$$
+
+and
+
+$$
+\alpha * \frac{1}{R+1} = \frac{\alpha}{R+1}
 $$
