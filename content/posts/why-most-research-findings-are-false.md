@@ -83,4 +83,4 @@ $$
 
 These probabilities are summarized in the following table:
 
-![image power failure alpha beta](/images/probability_table.png)
+![image power failure alpha beta](/images/Probability_table.png)
