@@ -4,6 +4,12 @@ Cognitive Psychology, Neuroscience, Computer Science, Machine learning, Artifici
 
 ## Education
 
+### 2023 - current: Post Doctoral Fellow at the Donders Institute for Cognitive Neuroscience, Nijmegen, the Netherlands.
+
+Methodological development and application of Normative modelling.
+
+### 2018 - current: Bachelor Computer Science, University of Hagen, Germany
+
 ### 2018-2022 PhD candidate at the University of Melbourne</summary>
 #### PhD Topic: Machine learning methods development and application in big data - towards the identification and evaluation of a neuroimaging biomarker for major depressive disorder under  A/Prof. Lianne Schmaal 
 -  Normative modelling in depression
