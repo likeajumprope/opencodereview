@@ -81,3 +81,9 @@ url = "mailto:bayerj@student.unimelb.edu.au"
   weight = 200
   identifier = "links"
   url = "/links/"
+
+  [[menu.main]]
+  name = "Book reviews"
+  weight = 200
+  identifier = "books"
+  url = "/books/"
