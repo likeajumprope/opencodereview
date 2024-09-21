@@ -1,5 +1,5 @@
 ## Here I list all the books I have read and what I thought about them. 
-See also my [goodreads:](https://www.goodreads.com/user/show/166381507-johanna-bayer)
+See also my [goodreads.](https://www.goodreads.com/user/show/166381507-johanna-bayer)
 
 
 
