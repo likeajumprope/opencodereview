@@ -14,7 +14,7 @@ use = "mathjax"  # options: "katex", "mathjax". default is "katex".
 [params]
 title = "Hi I'm Jo"
 author = "Johanna Bayer"
-description = "Research Fellow at the University of Melbourne. <br> Machine learning, Open Science,<br> Neuroimaging, Computer Science"
+description = "Research Fellow at the Donders Institute. <br> Machine learning, Open Science,<br> Neuroimaging, Computer Science"
 profilePicture = "images/Johanna.jpg"
 
 ## Social links
@@ -52,15 +52,15 @@ url = "mailto:bayerj@student.unimelb.edu.au"
   identifier = "posts"
   url = "/posts/"
 
-[[menu.main]]
-  name = "Projects"
-  weight = 200
-  identifier = "projects"
-  url = "/projects/"
+#[[menu.main]]
+# name = "Projects"
+# weight = 200
+#  identifier = "projects"
+#  url = "/projects/"
 
 [[menu.main]]
-  name = "Curriculum Vitae"
-  weight = 200
+  name = "CV"
+  weight = 300
   identifier = "CV"
   url = "/CV/"
 
@@ -77,13 +77,13 @@ url = "mailto:bayerj@student.unimelb.edu.au"
   url = "/portfolio/"
 
   [[menu.main]]
-  name = "Talks, workshops, links"
+  name = "Presentations"
   weight = 200
   identifier = "links"
   url = "/links/"
 
-  [[menu.main]]
-  name = "Book reviews"
-  weight = 200
-  identifier = "books"
-  url = "/books/"
+  #[[menu.main]]
+  #name = "Book reviews"
+  #weight = 300
+  #identifier = "books"
+  #url = "/books/"
