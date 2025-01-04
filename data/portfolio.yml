@@ -4,36 +4,39 @@ portfolioitems:
     portfolioitem:
       - name: PhD project 1 Site effects in multi-site neuroimaging studies
         image: '/images/MLpapers.jpeg'
-        link: https://www.biorxiv.org/content/biorxiv/early/2021/02/10/2021.02.09.430363.full.pdf'
-        description: 'Normative modelling is an emerging method in neuroimaging to model individualized differences beyond group average comparisons.
-        Normative modelling maps the variation of one dimension onto a second, normalizing for the variation in this dimension. In this project I develop 
-        and test a version of a normative model using a hierarchial Gaussian process to use normative modelling for site effect correction in multi-site
-        neuroimaging.'
+        link: 'https://pubmed.ncbi.nlm.nih.gov/36272672/'
+        description: |
+          Normative modelling is an emerging method in neuroimaging to model individualized differences beyond group average comparisons.
+          Normative modelling maps the variation of one dimension onto a second, normalizing for the variation in this dimension. In this project I develop 
+          and test a version of a normative model using a hierarchial Gaussian process to use normative modelling for site effect correction in multi-site
+          neuroimaging.
         tags:
           - project
           - publication
-        status: 'Ongoing'
+        status: 'Finished'
         start: '2018'
         end: '2022'
       - name: PhD project 2 Normative modelling in depression
         image: '/images/Normative3.jpeg'
-        link: https://gohugo.io/
-        description: 'Both the treatment and the neuro-anatomy underlying depression are  little understood. This can be attributed to the heterogeneity of depression, 
-        combined with the research approach of group average comparisons which cover many inter-individual differences. Normative modelling allows to map variation
-        at an individual level as z-scores of deviations. I studied the neuroanatomical deviations of individuals with '
+        link: 
+        description: |
+          Both the treatment and the neuro-anatomy underlying depression are little understood. This can be attributed to the heterogeneity of depression,
+          combined with the research approach of group average comparisons which cover many inter-individual differences. Normative modelling allows to map variation
+          at an individual level as z-scores of deviations.
         status: 'Ongoing'
         start: '2020'
-        end: "2022"
+        end: '2022'
         tags:
           - project
           - publication
       - name: PhD project 3 Comparing multi-site harmonisation methods
         image: '/images/Site_effect_image.jpeg'
-        link: https://psyarxiv.com/mpufv/
+        link: 'https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.923988/full'
         status: 'Finished'
-        description: 'With raising awareness about the multi-site effect problem, several methods have been developed to 
-        correct for this issue. But which method should be used in which situation? What are the exact mathematical underpinnings
-        of each method? This is what we are trying to discuss in this paper.'
+        description: |
+          With raising awareness about the multi-site effect problem, several methods have been developed to 
+          correct for this issue. But which method should be used in which situation? What are the exact mathematical underpinnings
+          of each method? This is what we are trying to discuss in this paper.
         tags:
           - project
           - publication
