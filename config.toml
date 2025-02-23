@@ -52,26 +52,36 @@ url = "mailto:johanna.m.m.bayer@gmail.com"
   identifier = "posts"
   url = "/posts/"
 
-#[[menu.main]]
-# name = "Projects"
-# weight = 200
-#  identifier = "projects"
-#  url = "/projects/"
 
-[[menu.main]]
+  [[menu.main]]
   name = "CV"
   weight = 300
-  identifier = "CV"
-  url = "/CV/"
-
-[[menu.main]]
-  name = "Publications"
-  weight = 200
-  identifier = "Publications"
-  url = "/Publications/"
+  identifier = "cv"
+  url = "/cv/"
 
  [[menu.main]]
-  name = "portfolio"
+  name = "Education"
+  weight = 310
+  identifier = "cv_education"
+  url = "/cv_education/"
+  parent = "cv"
+
+
+  [[menu.main]]
+  name = "Conferences/Talks"
+  weight = 320
+  identifier = "conferences"
+  url = "/conferences/"
+  parent = "cv"
+
+  [[menu.main]]
+  name = "Publications"
+  weight = 200
+  identifier = "publications"
+  url = "/publications/"
+
+  [[menu.main]]
+  name = "Portfolio"
   weight = 200
   identifier = "portfolio"
   url = "/portfolio/"
@@ -79,10 +89,17 @@ url = "mailto:johanna.m.m.bayer@gmail.com"
   [[menu.main]]
   name = "Presentations"
   weight = 200
-  identifier = "links"
-  url = "/links/"
+  identifier = "presentations"
+  url = "/presentations/"
 
-  #[[menu.main]]
+
+#[[menu.main]]
+# name = "Projects"
+# weight = 200
+#  identifier = "projects"
+#  url = "/projects/"
+
+#[[menu.main]]
   #name = "Book reviews"
   #weight = 300
   #identifier = "books"

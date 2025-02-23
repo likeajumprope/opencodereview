@@ -6,7 +6,7 @@ description = "Call me Jojanna"
 profilePicture = "images/Johanna.jpg"
 keywords = ""
 favicon = "favicons/"
-# example ["css/custom.css"]
+#example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 

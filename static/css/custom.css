@@ -1,0 +1,33 @@
+/* Hide the submenu by default */
+.optionswitch__list {
+    display: none;
+    position: absolute;
+    background: white;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    z-index: 1000;
+    list-style: none;
+  }
+  
+  /* When the checkbox is checked, show the submenu */
+  .optionswitch__picker:checked + label + .optionswitch__list {
+    display: block;
+  }
+  
+  /* Style the triangle dropdown button */
+  .optionswitch__label {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  /* Rotate triangle when dropdown is expanded */
+  .optionswitch__picker:checked + label i {
+    transform: rotate(180deg);
+  }
+  
+  /* Smooth dropdown animation */
+  .optionswitch__list {
+    transition: all 0.3s ease-in-out;
+  }

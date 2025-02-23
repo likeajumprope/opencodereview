@@ -1,6 +1,6 @@
 portfolioitems:
   # portfolio category
-  - title: Coding Projects & Research
+  - title: PhD research
     portfolioitem:
       - name: PhD project 1 Site effects in multi-site neuroimaging studies
         image: '/images/Accommodating.jpeg'
@@ -16,6 +16,7 @@ portfolioitems:
         status: 'Finished'
         start: '2018'
         end: '2022'
+
       - name: PhD project 2 Normative modelling in depression
         image: '/images/Normative3.jpeg'
         link: 
@@ -23,9 +24,9 @@ portfolioitems:
           Both the treatment and the neuro-anatomy underlying depression are little understood. This can be attributed to the heterogeneity of depression,
           combined with the research approach of group average comparisons which cover many inter-individual differences. Normative modelling allows to map variation
           at an individual level as z-scores of deviations.
-        status: 'Ongoing'
+        status: 'Finished'
         start: '2020'
-        end: '2022'
+        end: '2024'
         tags:
           - project
           - publication
