@@ -1,0 +1,47 @@
+/* --- Table Styling --- */
+table td, table th {
+  vertical-align: top;
+  text-align: left; /* optional if you want left-aligned text */
+}
+
+.post-content table,
+.single .content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.96rem;
+  margin: 1rem 0 1.5rem;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.post-content thead th {
+  position: sticky;
+  top: 0;
+  background: var(--table-head, #f6f7f9);
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 1px solid #e5e7eb;
+  padding: .6rem .7rem;
+}
+
+.post-content tbody tr:nth-child(odd) {
+  background: var(--table-zebra, #fafafa);
+}
+
+.post-content td, 
+.post-content th {
+  padding: .55rem .7rem;
+  vertical-align: top;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.post-content table {
+  display: block;
+  overflow-x: auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { --table-head: #1f2937; --table-zebra: #111827; }
+  .post-content td, .post-content th { border-color: #2a2a2a; }
+}

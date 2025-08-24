@@ -2,7 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Johanna Bayer'
 theme = "anatole"
-summarylength = 50
+summaryLength = 50
 enableEmoji = true
 enableRobotsTXT = true
 favicon = "favicons/"
@@ -16,6 +16,7 @@ title = "Hi I'm Jo"
 author = "Johanna Bayer"
 description = "Research Fellow at the Donders Institute. <br> Machine learning, Open Science,<br> Neuroimaging, Computer Science"
 profilePicture = "images/Johanna.jpg"
+customCss = ["css/custom.css"]
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
@@ -24,20 +25,38 @@ icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/johanna-bayer/"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.goldmark.extensions]
+  table = true
+  linkify = true
+  strikethrough = true
+  taskList = true
+  definitionList = true
+  footnote = true
+  typographer = true
+
+
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/likeajumprope"
 
 [[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/likeajumprope"
+icon = "fa-brands fa-orcid"
+name = "ORCID"
+url = "https://orcid.org/0000-0003-4891-6256"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:johanna.m.m.bayer@gmail.com"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-researchgate"
+name = "ResearchGate"
+url = "https://www.researchgate.net/profile/Johanna_Bayer6"
 
 [menu]
  [[menu.main]]
@@ -46,53 +65,38 @@ url = "mailto:johanna.m.m.bayer@gmail.com"
   weight = 100
   url = "/"
 
-  [[menu.main]]
+[[menu.main]]
   name = "Posts"
   weight = 200
   identifier = "posts"
   url = "/posts/"
 
 
-  [[menu.main]]
+[[menu.main]]
   name = "CV"
   weight = 300
   identifier = "cv"
-  url = "/cv/"
+  url = "/cv_full/"
 
- [[menu.main]]
-  name = "Education"
-  weight = 310
-  identifier = "cv_education"
-  url = "/cv_education/"
-  parent = "cv"
+#[[menu.main]]
+  #name = "Publications"
+  #identifier = "publications"
+  #url = "/publications/"
+  #weight = 200
 
+#[[menu.main]]
+  #name = "Current Projects"
+  #weight = 200
+  #identifier = "portfolio"
+  #url = "/portfolio/"
 
-  [[menu.main]]
-  name = "Conferences/Talks"
-  weight = 320
-  identifier = "conferences"
-  url = "/conferences/"
-  parent = "cv"
+#[[menu.main]]
+#  name = "Presentations"
+#  weight = 200
+#  identifier = "presentations"
+#  url = "/presentations/"
 
-  [[menu.main]]
-  name = "Publications"
-  weight = 200
-  identifier = "publications"
-  url = "/publications/"
-
-  [[menu.main]]
-  name = "Portfolio"
-  weight = 200
-  identifier = "portfolio"
-  url = "/portfolio/"
-
-  [[menu.main]]
-  name = "Presentations"
-  weight = 200
-  identifier = "presentations"
-  url = "/presentations/"
-
-
+#####
 #[[menu.main]]
 # name = "Projects"
 # weight = 200
@@ -104,3 +108,25 @@ url = "mailto:johanna.m.m.bayer@gmail.com"
   #weight = 300
   #identifier = "books"
   #url = "/books/"
+
+#[[menu.main]]
+  #name = "Education"
+  #weight = 310
+  #identifier = "cv_education"
+  #url = "/cv_education/"
+  #parent = "cv"
+
+
+  #[[menu.main]]
+  #name = "Conferences/Talks"
+  #weight = 320
+  #identifier = "conferences"
+  #url = "/conferences/"
+ # parent = "cv"
+
+ #[[menu.main]]
+  #name = "CV"
+  #weight = 330
+  #identifier = "CV"
+  #url = "/cv_full/"
+ #parent = "cv"

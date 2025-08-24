@@ -1,9 +1,9 @@
 portfolioitems:
   # portfolio category
-  - title: PhD research
+  - title: Current Projects
     portfolioitem:
-      - name: PhD project 1 Site effects in multi-site neuroimaging studies
-        image: '/images/Accommodating.jpeg'
+      - name: Velocity normative modelling
+        image: 'images/portfolio/projects/velocity_normative_modelling.png'
         link: 'https://pubmed.ncbi.nlm.nih.gov/36272672/'
         description: |
           Normative modelling is an emerging method in neuroimaging to model individualized differences beyond group average comparisons.
@@ -17,7 +17,7 @@ portfolioitems:
         start: '2018'
         end: '2022'
 
-      - name: PhD project 2 Normative modelling in depression
+      - name: Site effects in multi-site neuroimaging studies
         image: '/images/Normative3.jpeg'
         link: 
         description: |

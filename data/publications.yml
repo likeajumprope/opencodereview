@@ -1,0 +1,90 @@
+portfolioitems:
+  - title: Publications
+    portfolioitem:
+      - name: "Dissecting heterogeneity in cortical thickness abnormalities in MDD"
+        image: "images/portfolio/papers/mdd_enigma.png"
+        link: "https://www.biorxiv.org/"   # replace with your preprint URL
+        description: "Cortical thickness abnormalities in MDD are subtle and highly individualized; extreme deviations relate to symptom severity, age of onset, and remission—supporting precision psychiatry."
+        status: "Submitted"
+        start: "2025"
+        authors:
+          - "Bayer, JMM"
+          - "van Velzen, LS"
+          - "Pozzi, E"
+          - "Davey, C"
+          - "Han, LKM"
+          - "Bauduin, SEEC"
+          - "Bauer, J"
+          - "Benedetti, F"
+          - "Berger, K"
+          - "Bonnekoh, LM"
+          - "… ENIGMA MDD"
+        tags:
+          - "Normative Modelling"
+          - "ENIGMA"
+          - "MDD"
+          - "Cortical Thickness"
+        
+      - name: Site effects in multi-site neuroimaging studies
+        image: '/images/Accommodating.jpeg'
+        link: 'https://pubmed.ncbi.nlm.nih.gov/36272672/'
+        description: |
+          Normative modelling is an emerging method in neuroimaging to model individualized differences beyond group average comparisons.
+          Normative modelling maps the variation of one dimension onto a second, normalizing for the variation in this dimension. In this project I develop 
+          and test a version of a normative model using a hierarchial Gaussian process to use normative modelling for site effect correction in multi-site
+          neuroimaging.
+        tags:
+          - project
+          - publication
+        status: 'Finished'
+        start: '2018'
+        end: '2022'
+        
+      - name: "The SPEAK study: a corpus-based approach to thought disorder"
+        image: "images/portfolio/papers/speak.jpg"
+        link: "https://doi.org/10.1016/j.schres.2023.05.012"  # update to the actual DOI
+        description: "Study design for a linguistic corpus to understand thought disorder."
+        status: "Published"
+        start: "2023"
+        end: "2023"
+        authors:
+          - "Bayer, JMM"
+          - "Spark, J"
+          - "Krcmar, M"
+          - "Formica, M"
+          - "Gwyther, K"
+          - "Srivastava, A"
+          - "Selloni, A"
+          - "Cotter, M"
+          - "Hartmann, J"
+          - "Polari, A"
+          - "…"
+        tags:
+          - "Language"
+          - "Psychosis"
+          - "Design Paper"
+        # Optional extra fields if you want to show venue inline:
+        # journal: "Schizophrenia Research 259: 80–87 (Elsevier)"
+
+      - name: "Accommodating site variation in neuroimaging data"
+        image: #"/images/portfolio/papers/site_variation.jpg"
+        link: "https://doi.org/10.1016/j.neuroimage.2022.119699"
+        description: "Normative and hierarchical Bayesian models to handle site effects in neuroimaging."
+        status: "Published"
+        start: "2022"
+        end: "2022"
+        authors:
+          - "Bayer, JMM"
+          - "Dinga, R"
+          - "Kia, SM"
+          - "Kottaram, AR"
+          - "Wolfers, T"
+          - "Lv, J"
+          - "Zalesky, A"
+          - "Schmaal, L"
+          - "Marquand, A"
+        tags:
+          - "Site Effects"
+          - "NeuroImage"
+          - "HBM"
+          - "Normative Modelling"
